@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		inteiro vetor[10],troca=0,copia
@@ -21,7 +20,8 @@ programa
 					troca = 1
 				}
 			}
-	}	
+	}
+	
 		enquanto(troca ==1)
 			escreva("\n")
 			para(inteiro i=0;i<10;i++)
