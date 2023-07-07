@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		inteiro vet[10],i,soma=0
